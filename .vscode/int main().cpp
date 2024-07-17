@@ -2,8 +2,10 @@
 #include <stdio.h>
 #include <string>
 #include <cmath>
-#include <vector>
 #include <algorithm>
+#include <cctype>
+
+#include <vector>
 #include <queue>
 #include <stack>
 #include <map>
@@ -17,7 +19,6 @@ int main()
 
     int num;
     cin >> num;
-    
 
     return 0;
 }
