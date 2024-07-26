@@ -13,7 +13,8 @@
         "iostream": "cpp",
         "stack": "cpp",
         "map": "cpp",
-        "string": "cpp"
+        "string": "cpp",
+        "queue": "cpp"
     },
     "C_Cpp.errorSquiggles": "disabled"
 }
